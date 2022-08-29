@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Delazyf\\Learning\\MenuSystem\\Source\\MenuSystem\\MenuSystem.Build.cs",
+		"C:\\Delazyf\\Learning\\MenuSystem\\Source\\MenuSystem.Target.cs",
+		"C:\\Delazyf\\Learning\\MenuSystem\\Source\\MenuSystemEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
